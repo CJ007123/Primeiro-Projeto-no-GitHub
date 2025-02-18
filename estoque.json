@@ -1,0 +1,17 @@
+{
+    "Guitarra Fender": {
+        "nome_produto": "Guitarra Fender",
+        "valor": 1500,
+        "quantidade": 190
+    },
+    "Guitarra Ibanez": {
+        "nome_produto": "Guitarra Ibanez",
+        "valor": 2000,
+        "quantidade": 100
+    },
+    "Guitarra SG": {
+        "nome_produto": "Guitarra SG",
+        "valor": 1500,
+        "quantidade": 300
+    }
+}
